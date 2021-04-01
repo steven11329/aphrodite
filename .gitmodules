@@ -2,3 +2,7 @@
 	path = back-end
 	url = git@github.com:steven11329/aphrodite-back-end.git
 	branch = main
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:steven11329/aphrodite-front-end.git
+	branch = master
